@@ -1,0 +1,14 @@
+.Modal {
+    position: fixed;
+    width: 300px;
+    padding: 30px;
+    background-color: #ccc;
+    top: 50%;
+    left: 50%;
+    margin-left: -150px;
+}
+
+.Modal h1 {
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+}
